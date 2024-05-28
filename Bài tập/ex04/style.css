@@ -42,7 +42,7 @@ body{
 
  }  
    
-  header .highlight, header .current{
+  header .highlight, header .current a{
     color:#e8491d
   }
   
